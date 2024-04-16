@@ -9,6 +9,8 @@
 
 1. Headings (# * title level)
 
+1. \`++подчеркивания++\`: \`<u>подчеркивания</u>\`
+
 ### The converter calls md2html.Md2Html and takes two arguments: the name of the input file with Markdown markup and the name of the output file with HTML markup. Both files are UTF-8 encoded.
 
 ### Example:
